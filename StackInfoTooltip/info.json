@@ -1,0 +1,11 @@
+{
+    "name": "StackInfoTooltip",
+    "version": "0.0.1",
+    "title": "Stack Info Tooltip",
+    "author": "hsp9513",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1",
+        "(?) space-exploration-postprocess"
+    ]
+}
