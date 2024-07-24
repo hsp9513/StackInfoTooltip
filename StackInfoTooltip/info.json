@@ -7,5 +7,6 @@
     "dependencies": [
         "base >= 1.1",
         "(?) space-exploration-postprocess"
-    ]
+    ],
+    "description": "Display item's stack information in tooltip. Compatible with all other mods."
 }
